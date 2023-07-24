@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>FunctionalProgramming</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="ComparisonTime.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

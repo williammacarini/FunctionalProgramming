@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Tupla.fs" />
+    <Compile Include="Control.fs" />
+    <Compile Include="Optional.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
